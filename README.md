@@ -9,3 +9,5 @@ When you shut down or restart cura, your values should be existing. So you only 
 I can't give any warranty
 
 Hope you have fun
+
+<img src="https://github.com/Jumbo125/AddPid-post-process/blob/main/featured_preview_addPID.JPG">
